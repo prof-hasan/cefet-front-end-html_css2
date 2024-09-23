@@ -8,9 +8,8 @@
 
 1. [Web == Internet?](#web-igual-internet)
 1. [O que é a Web](#o-que-e-a-web)
+1. [As proezas de Tim](#as-proezas-de-tim)
 1. [Minha primeira página web](#minha-primeira-pagina-web)
-
-
 
 ---
 <!-- {"layout": "section-header", "hash": "web-igual-internet"} -->
@@ -602,6 +601,222 @@ ovelha.inicializa();
     <link href="estilos.css" rel="stylesheet">
     ```
 
+---
+<!-- {"layout": "section-header", "hash": "as-proezas-de-tim"} -->
+# Como surgiu a Web
+## O que levou ao seu surgimento
+
+- Tim, o Coração Valente
+- As proezas de Tim
+  - O formato HTML
+  - O navegador
+  - O servidor web
+  - O protocolo HTTP
+<!-- {ul^1:.content} -->
+
+---
+## Tim, o Coração Valente
+
+- ::: figure .floating-portrait-container.push-right
+  ![Tim Berners-Lee](../../images/tim-berners-lee.jpg) <!-- {.portrait} -->
+  :::
+  **Físico**, trabalhando no CERN, **Tim Berners-Lee** percebeu a necessidade
+  dos físicos de compartilhar informação e a falta de máquinas ou formatos
+  comuns
+- **Em 1989**, Tim escreveu uma proposta: _"a large hypertext database with typed
+  links"_
+- Candidatos a nomes:
+  - _Information Mesh_
+  - _The Information Mine_
+  - _Mine of Information_
+  - **_World Wide Web_**
+
+*[CERN]: Conseil Européen pour la Recherche Nucléaire*
+
+---
+## As 5 Façanhas de Tim
+
+- Ao final de 1990, Tim (:heart:) havia escrito **os 5 componentes básicos
+  da Web**: <!-- {ul:.bulleted} -->
+  1. O _HyperText Markup Language_ (HTML)
+  1. O primeiro navegador ou _web browser_ (WorldWideWeb)
+  1. O primeiro servidor ([CERN httpd][first-http-server])
+  1. O _HyperText Transfer Protocol_ (HTTP)
+  1. A primeira página Web servida na Internet (http://info.cern.ch)
+
+[first-http-server]: http://www.w3.org/Daemon/User/
+*[HTML]: HyperText Markup Language*
+*[HTTP]: HyperText Transfer Protocol*
+
+---
+<!-- {"layout": "main-point", "state": "emphatic"} -->
+## Tim, o coração valente, tinha uma dúvida
+
+![](../../images/tim-berners-lee.jpg) <!-- {.portrait.push-left} -->
+Quero que **qualquer pessoa**, em **qualquer computador** (arquitetura, sistema
+operacional, rede), em qualquer lugar, consiga **visualizar documentos um do
+outro**.
+
+Mais que isso, os documentos podem **referenciar um ao outro não necessariamente
+de forma hierárquica**. E quero que eles possam conter imagens, tabelas, títulos
+e outras coisas legais.
+
+---
+## HyperText Markup Language (HTML)
+
+- É um _formato de arquivo_ (`.html`) em texto simples (*plain-text*) em que
+  **seleciona-se um texto** e **marca suas partes dando a ele estrutura**
+
+  Texto puro:
+    ~ ```html
+      Este é um texto sem ênfases.
+      ```
+
+  Texto html:
+    ~ ```html
+      Este é um texto com um trecho <em>enfatizado</em>.
+      ```
+
+---
+## Um **arquivo `html`** completo
+
+- `pagina-singela.html`:
+  ```html
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title>Uma página web!</title>
+  </head>
+  <body>
+    Olá pessoal, esta é uma página com apenas este singelo texto!
+  </body>
+  </html>
+  ```
+
+---
+## **Evolução** do HTML e outras **alternativas**
+
+Versões
+  ~ 1993: HTML 1.0
+  ~ 1995: HTML 2.0
+  ~ 1997: HTML 3.2
+  ~ 1997: HTML 4.0
+  ~ 2008 - hoje: **HTML 5** ![](../../images/seta-o-cara.png) <!-- {.on-line.bouncing-left} -->
+
+Alternativas
+  ~ 2000: XHTML 1.0 ![](../../images/seta-meh.png) <!-- {.on-line.bouncing-left.delay-1} -->
+  ~ 2001: XHTML 1.1 ![](../../images/seta-meh.png) <!-- {.on-line.bouncing-left.delay-2} -->
+
+---
+<!-- {"layout": "main-point", "state": "emphatic"} -->
+## Tim, o coração valente, tinha uma dúvida
+
+![](../../images/tim-berners-lee.jpg) <!-- {.portrait.push-left} -->
+Agora que especifiquei um formato de arquivo robusto, preciso de um **programa
+que seja capaz de renderizar** seu conteúdo e permitir a **navegação** de um
+arquivo html para outro.
+
+---
+<!-- {"layout": "centered-horizontal"} -->
+![Foto do navegador WorldWideWeb](../../images/browser-www.jpg)
+<!-- {.slide-contain.centered.block} -->
+
+---
+<!-- {"layout": "main-point", "state": "emphatic"} -->
+## Tim, o coração valente, tinha uma dúvida
+
+![](../../images/tim-berners-lee.jpg) <!-- {.portrait.push-left} -->
+Até agora, consigo visualizar os arquivos `.html` no meu computador, usando um
+navegador. Mas quero poder acessar **arquivos de qualquer um que se disponha a
+deixar o computador ligado**, em qualquer parte do mundo.
+
+---
+## Servidores Web
+
+- É o **programa que executa** em um computador **24/7** e _"conversa" com os
+  navegadores_
+- **Atende _solicitações_** de *download* de arquivos e **entrega as _respostas_**
+- Funções:
+  - armazenar, processar e entregar páginas web para clientes
+  - receber dados de clientes (*upload*, formulários)
+  - gerar páginas HTML dinamicamente
+- Exemplos hoje em dia:
+  - **Apache**
+  - Tomcat
+  - Nginx
+  - IIS <!-- {ul:.multi-column-list-4} -->
+
+---
+<!-- {"layout": "main-point", "state": "emphatic"} -->
+## Tim, o coração valente, tinha uma dúvida
+
+Quero poder **transmitir** essas páginas web de um servidor para meu navegador.
+
+![](../../images/tim-berners-lee.jpg) <!-- {.portrait.push-left} -->
+Tenho o protocolo TCP/IP à minha disposição, mas preciso **transmitir mais do
+que apenas o conteúdo dos arquivos**. Por exemplo, como faço caso o arquivo
+solicitado não exista? **Em que "língua"** que o servidor web e o navegador vão
+**conversar**?
+
+---
+<!-- {"embedSVG": "img[src$='.svg']", "styles": ["../../styles/classes/http-diagram.min.css"]} -->
+## **HTTP**
+
+- É um **protocolo** na camada de aplicação
+  > Conjunto de regras bem definidas descrevendo como
+  > entidades se comunicam.
+  - É a **"língua falada" pelo navegador e pelo servidor web**
+- Modelo requisição &rarr; resposta
+
+::: figure .http-diagram.flex-align-center.figure-slides.clean.no-margin.invert-colors-dark-mode
+![](../../images/http-diagram-informal.svg) <!-- {.step-1 style="height: 280px"} --> <!-- {p:.bullet.figure-step.bullet-no-anim} -->
+
+![](../../images/http-diagram-informal.svg) <!-- {.step-2 style="height: 280px"} --> <!-- {p:.bullet.figure-step.bullet-no-anim} -->
+
+![](../../images/http-diagram-informal.svg) <!-- {.step-3 style="height: 280px"} --> <!-- {p:.bullet.figure-step.bullet-no-anim} -->
+:::
+
+---
+<!-- {"layout": "2-column-content", "embedSVG": "img[src$='.svg']"} -->
+### **Navegador requisita** algo e **Servidor responde**
+
+- ![](../../images/http-diagram-informal.svg) <!-- {.full-width.centered.step-3.invert-colors-dark-mode} --> <!-- {ul:.http-diagram.no-bullets.no-padding.bullet} -->
+  Requisição:
+  ```http
+  GET /index.html HTTP/1.1
+  Host: www.twitter.com
+  ```
+
+1. Resposta: <!-- {ol:.bullet.no-bullets.no-padding.compact-code} -->
+   ```http
+   HTTP/1.1 200 OK
+   Date: Mon, 23 May 2005 22:38:34 GMT
+   Server: Apache/1.3.3.7 (Unix) (Red-Hat/Linux)
+   Content-Type: text/html; charset=UTF-8
+   Content-Length: 131
+
+   <!DOCTYPE html>
+   <html>
+   <head>
+     <title>Twitter</title>
+   </head>
+   <body>
+     Olá mundo, este é um tweet.
+   </body>
+   </html>
+   ```
+
+---
+## HTTP
+
+- Versões
+  - 1991: v0.9
+  - 1996: v1.0
+  - 1997 - 1999: v1.1
+  - 2014 - 2016: HTTP/2
+  - 2017 - atual: HTTP/3
+- Alternativas
+  - 2009: SPDY
 
 ---
 <!-- {"layout": "section-header", "hash": "minha-primeira-pagina-web"} -->
@@ -725,6 +940,10 @@ ovelha.inicializa();
     - ![](../../images/documentation-alternatives.png) <!-- {.push-right style="height: 125px"} -->
       Prefira sempre a página MDN (informação confiável, completa e sem propagandas)
 
+**Entrega**
+  ~ Você deve **mostrar ao professor** o seu exercício para ganhar o visto.
+  ~ Além disso, você deve compactar a pasta com todos os seus arquivos em
+    um arquivo `.zip` e então **enviar esse arquivo via [Moodle][moodle]**
 
 *[MDN]: Mozilla Developer Network*
 [google]: http://google.com

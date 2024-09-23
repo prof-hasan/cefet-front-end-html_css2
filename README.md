@@ -1,38 +1,23 @@
 <!-- {"layout": "title"} -->
-# <span class="title-part-left">Laboratório de</span> <span class="title-part-top">**Programação**</span> <span class="title-part-right">Web</span>
+# <span class="title-part-left">Curso Introdutório de</span> <span class="title-part-top">**HTML, CSS, JavaScript e Experiência do Usuário**</span> 
 ## <span class="subtitle">Plano de Ensino<br>por **Flávio Coutinho** e **Daniel Hasan**</span>
 
 ---
 <!-- {"layout": "centered-horizontal"} -->
-### TP1: O Assunto X
+### Trabalhos dos alunos de Informática/Redes do CEFET-MG
 
 ::: gallery .fish-eye
 - [![](images/trabalhos/2017/little-cout.png)](https://brandaogabriel7.github.io/web-com-little-cout/)
 - [![](images/trabalhos/2017/vulcanismo.png)](https://eumsmo.github.io/geo-chop-suey/)
-- [![](images/trabalhos/2017/arte.png)](https://sirpedr.github.io/Arte)
-- [![](images/trabalhos/2017/biomedicina.png)](https://biomedicina.neocities.org)
 - <a href="https://marcosazevedo2112.github.io/NeedForSpace/"><video src="https://fegemo.github.io/cefet-front-end-large-assets/videos/need-for-space.mp4" autoplay muted loop="0" poster="images/trabalhos/2020/need-for-space.webp"></video></a>
 - [![](images/trabalhos/2017/quimica.png)](https://quimica.neocities.org)
 - [![](images/trabalhos/2020/holanda-invaders.webp)](https://o-g7.github.io/holanda-invaders/index.html)
 - [![](images/trabalhos/2018/blogueirinha.png)](https://blogueirinhas.neocities.org/)
 - <a href="https://arthurg12.github.io/trabalho/"><video src="https://fegemo.github.io/cefet-front-end-large-assets/videos/weboretum.mp4" autoplay muted loop="0" poster="images/trabalhos/2020/weboretum.webp"></video></a>
-:::
-
----
-<!-- {"layout": "centered-horizontal"} -->
-### TP2: Aplicação Web
-
-::: gallery .fish-eye
-- [![](images/trabalhos/2020/desenho-sem-fio.jpg)](https://serene-forest-07071.herokuapp.com/)
-- [![](images/trabalhos/2020/blackhole-clicker.jpg)](https://o-g7.github.io/blackhole-clicker/)
-- [![](images/trabalhos/2020/vulcaniando.webp)](https://evelynlaura.github.io/vulcaniando-x2/passaporte/passaporte.html)
-- [![](images/trabalhos/2020/pizza-clicker.jpg)](https://poipoipepe.github.io/Clicker-Pizza/)
-- [![](images/trabalhos/2018/site-dev-tycoon.jpg)](https://sitedevtycoon.neocities.org/)
 - [![](images/trabalhos/2018/disfarca-bobos.jpg)](https://disfarca-bobos.neocities.org)
-- [![](images/trabalhos/2017/life.png)](https://daniekans.github.io/apl)
-- [![](images/trabalhos/2017/symphony.png)](https://sirpedr.github.io/SymphonyOfBlades)
-- [![](images/trabalhos/2017/thecircus.png)](https://sirpedr.github.io/TheCircus)
+- [![](images/trabalhos/2020/pizza-clicker.jpg)](https://poipoipepe.github.io/Clicker-Pizza/)
 :::
+
 
 ---
 <!-- {"layout": "section-header"} -->
@@ -55,14 +40,34 @@
 <!-- {dl:.content} -->
 
 ---
+<!-- { "layout": "circling-balloons" } -->
+## Módulos
+
+- ![Logomarca do HTML](../../images/html_css.png)
+  Conceitos básicos, layout e responsividade, elemento de dados e interação
+
+- Experiência do Usuário (UX)
+
+    - Propriedades de qualidades de uso 
+    - Design de interface e interação
+    - Avaliação  de interfaces Web
+    - Método e Ferramentas para o apoio no design
+
+
+- ![Logomarca do JavaScript](../../images/logo-javascript.svg)
+
+  Captura de eventos, criação dinâmica de elementos, APIs e aplicações: criação de extensões Chrome e Google Apps Script
+---
 <!-- {"hash": "slides"} -->
 # Aulas <small>(1/3)</small>
 
 [🐑 Intro](classes/intro)  <!-- {dl:.width-20.full-width} -->
 ~ Introdução à Programação Web e as Ovelhas
 
+<!--
 [🦖 HTML1](classes/html1/)
 ~ Plantas Carnívoras, Ingredientes do HTML (_tags_) e Temperando com CSS
+
 
 [🏯 HTML2](classes/html2/)
 ~ Coding Dojo, Mais _tags_ HTML e Entendendo regras CSS
@@ -81,63 +86,7 @@
 
 [🦄 CSS3](classes/css3/)
 ~ Fontes, Multimídia e Unicórnios 
-
----
-# Aulas <small>(2/3)</small>
-
-
-[🐸🥕 CSS4](classes/css4/)  <!-- {dl:.width-20.full-width} -->
-~ Display, Flexbox, Grid e Sapos no Jardim
-
-[👻 HTML5](classes/html5/)
-~ Divitite e as _Tags_ Semânticas Especificidade, pseudo-coisas e Assombrações 
-
-[👻👻 CSS5](classes/css5/)
-~ Posicionamento e mais Assombrações
-
-[🤖 JS0](classes/js0/)
-~ Introdução a JavaScript
-
-[📈 JS1](classes/js1/)
-~ Inclusão, Mais tipos de dados, Clicando em botões e Resolvendo equações 
-
-[👽 JS2](classes/js2/)
-~ _Template_ strings, Função seta, Alterando o DOM e Exploração
-  Espacial
-
-[📸 JS3](classes/js3/)
-~ História, Estilizando
-  elementos, Eventos de mouse, Depurando e o PhotoSnap 
-
-
-<!-- Layout, Centralizando coisas e a Lanchonete do Coral 55 :palm_tree: -->
-
----
-# Aulas <small>(3/3)</small>
-
-[💄 HTML6](classes/html6)  <!-- {dl:.width-20.full-width} -->
-~ Elementos de dados e o AvatarCreator
-
-[🐶🐱 CSS6](classes/css6)
-~ Transições, Animações e os Animais 
-
-[📓 JS4](classes/js4/)
-~ Usando objetos, Criando elementos HMTL e a Lista de Tarefas
-
-[📓📓 JS5](classes/js5/)
-~ Web Storage, JSON e a Lista de Tarefas x2
-
-[📸📸 JS6](classes/js6/)
-~ Bibliotecas, jQuery e o PhotoSnap x2
-
-[🏪 CSS7](classes/css7/)
-~ _Responsive Web Design_ e a Super Loja
-
-[👑👑 PHP1](classes/php1/)
-~ Apache, PHP, MySQL e os Tesouros Dinâmicos 
-
-[🌠 JS7](classes/js7/)
-~ Ajax e as Guerras Estelares
+-->
 
 
 ---
@@ -148,10 +97,50 @@
 
 1. **Criar páginas web** _estáticas_ com HTML, CSS e JavaScript
 1. Criar páginas seguindo **requisitos de *layout*** diversos
+1. Entender os principios básicos da **Experiencia do Usuário (UX)**
 1. Criar **páginas web interativas** usando JavaScript
 1. **Integrar páginas** web estáticas com servidores **via AJAX**
-1. Tornar-se um **ninja** Javascript
 <!-- {ol:.content} -->
+---
+<!-- {"layout": "section-header" } -->
+# Ementa
+
+## Características
+
+1. Aulas Síncronas e Ansincronas
+1. Carga horária: 
+1. Avaliação on-line por módulo
+1. Atividades práticas
+<!-- {ol:.content} -->
+---
+# Pré-requisitos para o certificado
+
+1. Realizar 75% das atividades práticas
+1. Obter 60% de aproveitamento no total das avaliações 
+1. Realizar o pagamento do curso (prérequisito para acessar cada módulo)
+
+
+
+<!-- {ol:.content} -->
+---
+# Pagamentos e condições
+
+Valor a vista
+  
+  ~ R$ 460,00
+  ~ Para os 20 primeiros: R$ 300,00 
+  ~ O pagamento é prerequisito de acesso ao curso
+
+Parcelado: 
+  ~ 3 x R$ 180,00
+  ~ Para os 10 primeiros: 3 x R$ 120,00
+  ~ Pagamento antes de cada módulo
+  ~ O pagamento é prerequisito para acesso ao módulo
+
+
+
+<!-- {dl:.bulleted} -->
+
 
 ---
 <!-- { "layout": "centered", "styles": ["styles/classes/books.min.css"] } -->
@@ -183,6 +172,66 @@
 
 **Editora**
    ~ O'Reilly Media, 2015 (tradução)
+---
+<!-- { "layout": "centered", "styles": ["styles/classes/books.min.css"] } -->
+## **Livro texto** sobre Experiência do Usuário
+
+::: figure .book
+- ![](images/design_norman.jpg) <!-- {.full-width.full-height} -->
+- .
+<!-- {ul:.hardcover_front} -->
+- .
+- [Sobre](http://www.altabooks.com.br/use-a-cabeca-html-e-css.html) <!-- {a:.book-btn target="_blank"} -->
+- .
+- .
+- .
+<!-- {ul:.page} -->
+- .
+- .
+<!-- {ul:.hardcover_back} -->
+- .
+- .
+<!-- {ul:.book_spine} -->
+:::
+
+**Título**
+	 ~ The Design Of Everyday Things
+
+**Autores**
+	 ~  Don Norman
+
+**Editora**
+   ~  Basic Books, 2013
+---
+<!-- { "layout": "centered", "styles": ["styles/classes/books.min.css"] } -->
+## **Livro texto** sobre Experiência do Usuário
+
+::: figure .book
+- ![](images/design_norman.jpg) <!-- {.full-width.full-height} -->
+- .
+<!-- {ul:.hardcover_front} -->
+- .
+- [Sobre](http://www.altabooks.com.br/use-a-cabeca-html-e-css.html) <!-- {a:.book-btn target="_blank"} -->
+- .
+- .
+- .
+<!-- {ul:.page} -->
+- .
+- .
+<!-- {ul:.hardcover_back} -->
+- .
+- .
+<!-- {ul:.book_spine} -->
+:::
+
+**Título**
+	 ~ Interação Humano-Computador e Experiência do Usuário
+
+**Autores**
+	 ~  Simone Barbosa, Bruno Santana da Silva, Milene Silveira, Isabela Gasparini, Ticianne Darin, and Gabriel Barbosa
+
+**Editora**
+   ~  Basic Books, 2021
 
 ---
 <!-- {"layout": "centered"} -->
