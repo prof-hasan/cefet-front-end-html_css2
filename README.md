@@ -1,9 +1,97 @@
 <!-- {"layout": "title"} -->
 # <span class="title-part-left">Curso Introdutório de</span> <span class="title-part-top">**HTML, CSS, JavaScript e Experiência do Usuário**</span> 
 ## <span class="subtitle">Plano de Ensino<br>por **Flávio Coutinho** e **Daniel Hasan**</span>
+---
+# Quem somos? 
+
+
+![](images/glivia.jpg) <!-- {.portrait.push-left} -->
+**Glivia Barbosa** - Doutora em Computação<br>
+Especialista em projeto e avaliação de interfaces
+centradas na experiencia do usuário
+
+
+
+![](images/hasan.png) <!-- {.portrait.push-right} -->
+**Daniel Hasan** - Doutor em Computação<br>
+Aprendizado de máquina<br>
++10 anos de experiência em desenvolvimento web
+---
+# De onde somos? 
+
+
+
+  -  ![CEFET-MG](images/logo_cefetmg.png)<!-- {li:style="display: inline-block; width:43%;border-right:1px dashed black; padding-right: 10px;"}--><br>
+      - Mais de 120 cursos em 10 campi em MG <br>
+
+      Em BH:
+        - 14 cursos Técnicos
+        - 11 cursos de graduação
+        - 11 cursos de mestrado
+        - 7 cursos de doutorado
+        <br>
+
+  - ![Departamento de computação](images/decom.png)<!-- {li:style="display: inline-block; width:52%;"}--><br>
+    Cursos:
+      - Eng. Computação
+      - Tec. em Informática
+      - Tec. em Redes
+      - Pos Grad. em Modelagem Matemática e Computacional (mestrado e doutorado)
+      <br><br>
+
 
 ---
-<!-- {"layout": "centered-horizontal"} -->
+<!-- {"layout": "section-header" } -->
+# Para onde vamos?
+## Apresentação do curso
+
+1. Aulas Síncronas e Assincronas
+1. Carga horária: 38 horas
+1. Avaliação on-line por módulo
+1. Atividades práticas
+1. 13 de outubro a 15 de janeiro
+<!-- {ol:.content} -->
+
+
+---
+<!-- {"layout": "section-header"} -->
+# Plano de Ensino
+
+## Sumário do conteúdo
+
+[Módulos](#modulos)
+  ~ Módulos do curso
+
+[Trabalhos](#tps)
+  ~ Trabalho de alunos
+
+[Aulas](#aulas)
+  ~ Slides das aulas
+
+[Bibliografia](#bibliografia)
+  ~ Livros e materiais básicos e complementares
+
+[Mais...](#info)
+  ~ Pré requisito para o certificado
+  ~ Pagamentos e condições
+
+<!-- {dl:.content} -->
+
+---
+<!-- { "hash": "modulos", "layout": "circling-balloons" } -->
+## Módulos
+
+- ![Logomarca do HTML](images/html_css.png)
+  Conceitos básicos, layout e responsividade, elemento de dados e interação
+
+- ![Experiencia do Usuário](images/ux_logo.png)
+Qualidades de uso, design de interface e interação, avaliação  de interfaces Web,  Métodos e Ferramentas apoio
+
+- ![Logomarca do JavaScript](images/logo-javascript.svg)
+  Captura de eventos, criação dinâmica de elementos, APIs e aplicações: criação de extensões Chrome e Google Apps Script
+
+---
+<!-- {"hash": "tps","layout": "centered-horizontal"} -->
 ### Trabalhos dos alunos de Informática/Redes do CEFET-MG
 
 ::: gallery .fish-eye
@@ -18,48 +106,9 @@
 - [![](images/trabalhos/2020/pizza-clicker.jpg)](https://poipoipepe.github.io/Clicker-Pizza/)
 :::
 
-
----
-<!-- {"layout": "section-header"} -->
-# Plano de Ensino
-
-## Sumário do conteúdo
-
-[Slides](#slides)
-  ~ Conteúdo das aulas em _slides_
-
-[Ementa](#ementa)
-  ~ Objetivo e a descrição da matéria
-
-[Bibliografia](#bibliografia)
-  ~ Livros e materiais básicos e complementares
-
-[Avaliação](#avaliacao)
-  ~ O formato e os itens de distribuição dos pontos
-
-<!-- {dl:.content} -->
-
----
-<!-- { "layout": "circling-balloons" } -->
-## Módulos
-
-- ![Logomarca do HTML](../../images/html_css.png)
-  Conceitos básicos, layout e responsividade, elemento de dados e interação
-
-- Experiência do Usuário (UX)
-
-    - Propriedades de qualidades de uso 
-    - Design de interface e interação
-    - Avaliação  de interfaces Web
-    - Método e Ferramentas para o apoio no design
-
-
-- ![Logomarca do JavaScript](../../images/logo-javascript.svg)
-
-  Captura de eventos, criação dinâmica de elementos, APIs e aplicações: criação de extensões Chrome e Google Apps Script
 ---
 <!-- {"hash": "slides"} -->
-# Aulas <small>(1/3)</small>
+# Aulas <!--<small>(1/3)</small>-->
 
 [🐑 Intro](classes/intro)  <!-- {dl:.width-20.full-width} -->
 ~ Introdução à Programação Web e as Ovelhas
@@ -101,49 +150,13 @@
 1. Criar **páginas web interativas** usando JavaScript
 1. **Integrar páginas** web estáticas com servidores **via AJAX**
 <!-- {ol:.content} -->
----
-<!-- {"layout": "section-header" } -->
-# Ementa
-
-## Características
-
-1. Aulas Síncronas e Ansincronas
-1. Carga horária: 
-1. Avaliação on-line por módulo
-1. Atividades práticas
-<!-- {ol:.content} -->
----
-# Pré-requisitos para o certificado
-
-1. Realizar 75% das atividades práticas
-1. Obter 60% de aproveitamento no total das avaliações 
-1. Realizar o pagamento do curso (prérequisito para acessar cada módulo)
 
 
 
-<!-- {ol:.content} -->
----
-# Pagamentos e condições
-
-Valor a vista
-  
-  ~ R$ 460,00
-  ~ Para os 20 primeiros: R$ 300,00 
-  ~ O pagamento é prerequisito de acesso ao curso
-
-Parcelado: 
-  ~ 3 x R$ 180,00
-  ~ Para os 10 primeiros: 3 x R$ 120,00
-  ~ Pagamento antes de cada módulo
-  ~ O pagamento é prerequisito para acesso ao módulo
-
-
-
-<!-- {dl:.bulleted} -->
 
 
 ---
-<!-- { "layout": "centered", "styles": ["styles/classes/books.min.css"] } -->
+<!-- { "hash": "bibliografia","layout": "centered", "styles": ["styles/classes/books.min.css"] } -->
 ## **Livro texto** sobre HTML e CSS
 
 ::: figure .book
@@ -172,6 +185,9 @@ Parcelado:
 
 **Editora**
    ~ O'Reilly Media, 2015 (tradução)
+
+
+
 ---
 <!-- { "layout": "centered", "styles": ["styles/classes/books.min.css"] } -->
 ## **Livro texto** sobre Experiência do Usuário
@@ -202,16 +218,19 @@ Parcelado:
 
 **Editora**
    ~  Basic Books, 2013
+
+
+
 ---
 <!-- { "layout": "centered", "styles": ["styles/classes/books.min.css"] } -->
 ## **Livro texto** sobre Experiência do Usuário
 
 ::: figure .book
-- ![](images/design_norman.jpg) <!-- {.full-width.full-height} -->
+- ![](images/ihc-ux_simone_barbosa.png) <!-- {.full-width.full-height} -->
 - .
 <!-- {ul:.hardcover_front} -->
 - .
-- [Sobre](http://www.altabooks.com.br/use-a-cabeca-html-e-css.html) <!-- {a:.book-btn target="_blank"} -->
+- [Sobre](https://leanpub.com/ihc-ux) <!-- {a:.book-btn target="_blank"} -->
 - .
 - .
 - .
@@ -323,13 +342,45 @@ Parcelado:
 - **Título**	JavaScript, the Good Parts, First Edition
 - **Autor**	Douglas Crockford
 - **Editora** O'Reilly Media, 2008
-
 ---
-<!-- { "hash": "avaliacao", "layout": "section-header" } -->
-# Avaliação
+<!-- {"hash": "info"} -->
+# Pré-requisitos para o certificado
 
-## Distribuição de pontos (aproximada) por bimestre
+1. Realizar 75% das atividades práticas
+1. Obter 60% de aproveitamento no total das avaliações 
+1. Realizar o pagamento do curso (prérequisito para acessar cada módulo)
 
-- ~08 Atividades práticas: **80%** da nota
-- 01 Prova: **20%** pontos
-<!-- {ul:.content} -->
+
+
+<!-- {ol:.content} -->
+---
+
+# Pagamentos e condições
+
+
+
+- R$ 460,00 ou 3 x R$ 180,00<!-- {ul:.bulleted} -->
+- **20 primeiros à vista:** R$ 300,00
+- Caso não seja pago a primeira GRU no prazo (até 01/09/2024), perderá a promoção
+- A vista:
+  - Pagamento antes do curso
+  - O pagamento é prerequisito para acesso ao curso
+- Parcelado
+  - Pagamento antes de cada módulo
+  - O pagamento é prerequisito para acesso ao módulo
+---
+
+# Por fim
+
+Até a próxima ;-)
+
+Professores:
+~ Glívia Barbosa <[glivia@cefetmg.br](mailto:fegemo@cefetmg.br)>
+~ Daniel Hasan <[hasan@cefetmg.br](mailto:hasan@cefetmg.br)>
+
+Onde: 
+~ Sala 202, DECOM
+~ Sala 409, DECOM
+~ DECOM: Prédio 17 - Campus Nova Gameleira
+
+
