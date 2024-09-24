@@ -1,6 +1,6 @@
 <!-- {"layout": "title"} -->
 # <span class="title-part-left">Curso Introdutório de</span> <span class="title-part-top">**HTML, CSS, JavaScript e Experiência do Usuário**</span> 
-## <span class="subtitle">Plano de Ensino<br>por **Flávio Coutinho** e **Daniel Hasan**</span>
+## <span class="subtitle">**Glívia Barbosa** e **Daniel Hasan**</span>
 ---
 # Quem somos? 
 
