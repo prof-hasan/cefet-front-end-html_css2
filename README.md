@@ -360,14 +360,15 @@ Qualidades de uso, design de interface e interação, avaliação  de interfaces
 
 
 - R$ 460,00 ou 3 x R$ 180,00<!-- {ul:.bulleted} -->
-- **Primeiro lote:** R$ 300,00 a vista
-- Caso não seja pago a primeira GRU no prazo (até 01/10/2024), perderá a promoção
-- A vista:
+- **Primeiro lote:** R$ 320,00 à vista
+- Caso não seja pago a primeira GRU no prazo (até 02/10/2024), perderá a promoção
+- À vista:
   - Pagamento antes do curso
   - O pagamento é prerequisito para acesso ao curso
 - Parcelado
   - Pagamento antes de cada módulo
   - O pagamento é prerequisito para acesso ao módulo
+  - O aluno poderá perder o direito de acessar o módulo caso não pague a tempo
 ---
 
 # Por fim
