@@ -49,7 +49,7 @@ Aprendizado de máquina<br>
 1. Carga horária: 38 horas
 1. Avaliação on-line por módulo
 1. Atividades práticas
-1. 13 de outubro a 15 de janeiro
+1. 1 de novembro a 31 de janeiro
 <!-- {ol:.content} -->
 
 
@@ -348,7 +348,7 @@ Qualidades de uso, design de interface e interação, avaliação  de interfaces
 
 1. Obter 60% de aproveitamento no total das avaliações (Práticas+teóricas)
 1. Realizar o pagamento do curso (prérequisito para acessar cada módulo)
-
+1. Terminar o módulo no prazo. O aluno poderá repetir o módulo gratuitamente, tendo novas ofertas do mesmo. 
 
 
 <!-- {ol:.content} -->
