@@ -350,7 +350,7 @@ Qualidades de uso, design de interface e interação, avaliação  de interfaces
 
 1. Obter 60% de aproveitamento no total das avaliações (Práticas+teóricas)
 1. Realizar o pagamento do curso (prérequisito para acessar cada módulo)
-1. Terminar o módulo no prazo. O aluno poderá repetir o módulo gratuitamente, tendo novas ofertas do mesmo (iremos corrigir isso no edital). 
+1. Terminar o módulo no prazo. O aluno poderá repetir o módulo gratuitamente, caso haja novas ofertas do mesmo. 
 
 
 <!-- {ol:.content} -->
