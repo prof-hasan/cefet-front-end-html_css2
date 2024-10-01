@@ -1,6 +1,6 @@
 <!-- {"layout": "title"} -->
 # **Introdução** à Programação Web
-## História e conceitos básicos
+## A Web, conceitos básicos e as ovelhas 🐑
 
 ---
 <!-- {"layout": "centered"} -->
