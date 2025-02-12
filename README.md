@@ -1,6 +1,6 @@
 <!-- {"layout": "title"} -->
 # <span class="title-part-left">Curso Introdutório de</span> <span class="title-part-top">**HTML, CSS, JavaScript e Experiência do Usuário**</span> 
-## <span class="subtitle">**Glívia Barbosa** e **Daniel Hasan**</span>
+## <span class="subtitle">**Glívia Barbosa**, **Thayane Duarte** e **Daniel Hasan**</span>
 ---
 # Quem somos? 
 
@@ -8,14 +8,25 @@
 ![](images/glivia.jpg) <!-- {.portrait.push-left} -->
 **Glivia Barbosa** - Doutora em Computação<br>
 Especialista em projeto e avaliação de interfaces
-centradas na experiencia do usuário
+centradas na experiencia do usuário<!-- {p:.smaller-text-70} -->
 
+![](images/thayane.jpeg) <!-- {.portrait.push-right} -->
+**Thayane Duarte** - Engenheira de Computação<br>
+Designer de Produto<br>
+Sólida experiencia na área de UX<!-- {p:.smaller-text-70} -->
 
-
-![](images/hasan.png) <!-- {.portrait.push-right} -->
+![](images/hasan.png) <!-- {.portrait.push-left} -->
 **Daniel Hasan** - Doutor em Computação<br>
 Aprendizado de máquina<br>
-+10 anos de experiência em desenvolvimento web
++10 anos de experiência em desenvolvimento web<!-- {p:.smaller-text-70} -->
+
+<style>
+    .portrait{
+      width: 100px!important;
+      height: 100px!important;
+    }
+</style>
+
 ---
 # De onde somos? 
 
@@ -45,11 +56,10 @@ Aprendizado de máquina<br>
 # Para onde vamos?
 ## Apresentação do curso
 
-1. Aulas Síncronas e Assincronas
-1. Carga horária: 38 horas
+1. Aulas Assincronas
 1. Avaliação on-line por módulo
 1. Atividades práticas
-1. 1 de novembro a 31 de janeiro
+
 <!-- {ol:.content} -->
 
 ---
@@ -107,23 +117,23 @@ Qualidades de uso, design de interface e interação, avaliação  de interfaces
 - [![](images/trabalhos/2018/disfarca-bobos.jpg)](https://disfarca-bobos.neocities.org)
 - [![](images/trabalhos/2020/pizza-clicker.jpg)](https://poipoipepe.github.io/Clicker-Pizza/)
 :::
-<!--
----
-<!-- {"hash": "slides"} 
-# Aulas <!--<small>(1/3)</small>
 
-[🐑 Intro](classes/intro)  <!-- {dl:.width-20.full-width}
+---
+<!-- {"hash": "slides"} --> 
+# Aulas <!-- <small>(1/3)</small> -->
+
+[🐑 Intro](classes/intro)   <!-- {dl:.width-20.full-width} -->
 ~ Introdução à Programação Web e as Ovelhas
 
 
 [🦖 HTML1](classes/html1/)
-~ Plantas Carnívoras, Ingredientes do HTML (_tags_) e Temperando com CSS
+~ Ingredientes do HTML (_tags_) e Temperando com CSS
 
 
-[🏯 HTML2](classes/html2/)
-~ Coding Dojo, Mais _tags_ HTML e Entendendo regras CSS
-
-[👑 HTML3](classes/html3/)
+[🐝 HTML2](classes/html2/)
+~ Mais _tags_ HTML e Entendendo regras CSS
+<!--
+ [👑 HTML3](classes/html3/)
 ~ Tabelas, Tesouros e Piratas
 
 [🐝 CSS1](classes/css1/)
@@ -141,6 +151,7 @@ Qualidades de uso, design de interface e interação, avaliação  de interfaces
 
 
 ----->
+---
 <!-- { "hash": "ementa", "layout": "section-header" } -->
 # Ementa
 
@@ -352,18 +363,3 @@ Qualidades de uso, design de interface e interação, avaliação  de interfaces
 1. Realizar o pagamento do curso (prérequisito para acessar cada módulo)
 1. Terminar o módulo no prazo. O aluno poderá repetir o módulo gratuitamente, caso haja novas ofertas do mesmo. 
 
-
-<!-- {ol:.content} -->
----
-
-# Pagamentos e condições
-- R$ 460,00 ou 3 x R$ 180,00<!-- {ul:.bulleted} -->
-- **Primeiro lote:** R$ 320,00 à vista. Inscrição até 02/10 pagamento até 07/10.
-  - Caso não seja pago no prazo (até 07/10/2024), perderá a promoção
-- À vista:
-  - Pagamento antes do curso
-  - O pagamento é prerequisito para acesso ao curso
-- Parcelado
-  - Pagamento antes de cada módulo
-  - O pagamento é prerequisito para acesso ao módulo
-  - O aluno poderá perder o direito de acessar o módulo caso não pague a tempo
