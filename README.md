@@ -132,6 +132,16 @@ Qualidades de uso, design de interface e interação, avaliação  de interfaces
 
 [🐝 HTML2](classes/html2/)
 ~ Mais _tags_ HTML e Entendendo regras CSS
+
+[:dash: CSS1](classes/css1/)
+~ Ferramentas do Desenvolvedor, Layout, a Cascata e outros Seletores e Ninjas 
+
+[:ghost: HTML3](classes/html3/)
+~ Divitite e _tags_ semânticas, Box Model, Float, _Pseudo-coisas_ e Assombrações
+
+
+
+
 <!--
  [👑 HTML3](classes/html3/)
 ~ Tabelas, Tesouros e Piratas
