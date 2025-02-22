@@ -1,6 +1,6 @@
 <!-- {"layout": "title"} -->
-# **HTML** parte 3
-## Tabelas, , Tesouros :crown: e Piratas
+# **Extra**
+## Tabelas, Video, Áudio, Web fonts, Tesouros :crown: e Piratas
 
 
 
@@ -11,8 +11,9 @@
 1. [Tabelas simples](#tabelas-simples)
 1. [Tabelas completas](#tabelas-completas)
 1. [Estilizando tabelas](#estilizando-tabelas)
-1. [Piratas e seus tesouros](#piratas-e-seus-tesouros) 👑
-
+1. [Vídeo e Áudio](#video-e-audio)
+1. [Web fonts](#web-fonts)
+1. [Piratas e seus tesouros - o que precisamos para](#piratas-e-seus-tesouros) 👑
 
 ---
 <!-- {"hash": "tabelas"} -->
@@ -650,26 +651,7 @@ Imagem vetorial (SVG) original (pequena) e aumentada (mantém a qualidade)
 [dafont]: http://www.dafont.com/pt/
 [font-space]: http://www.fontspace.com/
 
----
-<!-- {"layout": "centered-horizontal"} -->
-## Utilização do Google Fonts
 
-<video src="../../videos/web-fonts-google.mp4" width="802" height="456" controls></video>
-
----
-<!-- {"layout": "section-header", "hash": "unicornios"} -->
-# _Unicorns are real_
-## Conheça a verdade
-
-- ![Little Pony](../../images/little-pony.png) <!-- {.portrait.push-right} -->
-  Atividade de hoje
-- _Layouts_ no Photoshop
-- Quebrando linhas no texto
-- Relembrando o _Box Model_
-<!-- {ul:.content} -->
-
----
-<!-- {"backdrop": "pratica-unicornios"} -->
 
 
 
