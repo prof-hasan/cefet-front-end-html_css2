@@ -122,22 +122,13 @@ Qualidades de uso, design de interface e interação, avaliação  de interfaces
 <!-- {"hash": "slides"} --> 
 # Aulas <!-- <small>(1/3)</small> -->
 
-[🐑 Intro](classes/intro)   <!-- {dl:.width-20.full-width} -->
-~ Introdução à Programação Web e as Ovelhas
+[🐸🥕 CSS4](classes/css4/)
+~ Posicionamento, visibilidade, <br>Flexbox e Grid 🐸🥕
+
+[:palm_tree: CSS5](classes/css5/)
+~ Layouts, _custom properties_ e a<br><span style="font-family: Ravie, serif; color: #e90c0c; text-shadow: 1px 1px black;">Lanchonete do Coral 55</span>
 
 
-[🦖 HTML1](classes/html1/)
-~ Ingredientes do HTML (_tags_) e Temperando com CSS
-
-
-[🐝 HTML2](classes/html2/)
-~ Mais _tags_ HTML e Entendendo regras CSS
-
-[:dash: CSS1](classes/css1/)
-~ Ferramentas do Desenvolvedor, Layout, a Cascata e outros Seletores e Ninjas 
-
-[:ghost: HTML3](classes/html3/)
-~ Divitite e _tags_ semânticas, Box Model, Float, _Pseudo-coisas_ e Assombrações
 
 
 
